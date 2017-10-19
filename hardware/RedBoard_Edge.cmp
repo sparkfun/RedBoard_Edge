@@ -1,0 +1,612 @@
+Cmp-Mod V01 Created by Cvpcb (2015-02-06 BZR 5410)-product   date = Mon 09 Feb 2015 04:12:04 PM PST
+
+BeginCmp
+TimeStamp = /595A8305;
+Reference = C1;
+ValeurCmp = 0.1UF-0603-25V-(+80/-20%);
+IdModule  = SPARKFUN-CAPACITORS_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /595A83CD;
+Reference = C2;
+ValeurCmp = 0.1UF-0603-25V-(+80/-20%);
+IdModule  = SPARKFUN-CAPACITORS_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /595A8495;
+Reference = C3;
+ValeurCmp = 10UF-POLAR-EIA3216-16V-10%(TANT);
+IdModule  = SPARKFUN-CAPACITORS_EIA3216;
+EndCmp
+
+BeginCmp
+TimeStamp = /595A855D;
+Reference = C4;
+ValeurCmp = 0.1UF-0603-25V-(+80/-20%);
+IdModule  = SPARKFUN-CAPACITORS_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /595A8625;
+Reference = C5;
+ValeurCmp = 47UF-POLAR-PANASONIC_D-35V-20%;
+IdModule  = SPARKFUN-CAPACITORS_PANASONIC_D;
+EndCmp
+
+BeginCmp
+TimeStamp = /595A86ED;
+Reference = C6;
+ValeurCmp = 10UF-POLAR-EIA3216-16V-10%(TANT);
+IdModule  = SPARKFUN-CAPACITORS_EIA3216;
+EndCmp
+
+BeginCmp
+TimeStamp = /595A87B5;
+Reference = C7;
+ValeurCmp = 1.0UF-0603-16V-10%;
+IdModule  = SPARKFUN-CAPACITORS_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /595A887D;
+Reference = C8;
+ValeurCmp = 0.1UF-0603-25V-(+80/-20%);
+IdModule  = SPARKFUN-CAPACITORS_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /595A8945;
+Reference = C9;
+ValeurCmp = 47PF-0603-50V-5%;
+IdModule  = SPARKFUN-CAPACITORS_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /595A8A0D;
+Reference = C10;
+ValeurCmp = 0.1UF-0603-25V-(+80/-20%);
+IdModule  = SPARKFUN-CAPACITORS_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /595A8AD5;
+Reference = C12;
+ValeurCmp = 0.1UF-0603-25V-(+80/-20%);
+IdModule  = SPARKFUN-CAPACITORS_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /595A8B9D;
+Reference = C13;
+ValeurCmp = 47PF-0603-50V-5%;
+IdModule  = SPARKFUN-CAPACITORS_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /595A8C65;
+Reference = C14;
+ValeurCmp = 0.1UF-0603-25V-(+80/-20%);
+IdModule  = SPARKFUN-CAPACITORS_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /595A8D2D;
+Reference = C15;
+ValeurCmp = 10UF-POLAR-EIA3216-16V-10%(TANT);
+IdModule  = SPARKFUN-CAPACITORS_EIA3216;
+EndCmp
+
+BeginCmp
+TimeStamp = /595A8DF5;
+Reference = D1;
+ValeurCmp = MBRA140;
+IdModule  = SPARKFUN-DISCRETESEMI_SMA-DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /595A8EBD;
+Reference = F1;
+ValeurCmp = PTC-HALF_AMP;
+IdModule  = SPARKFUN-FUSES_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /595A9A11;
+Reference = IC3;
+ValeurCmp = V_REG_LM1117ALT1;
+IdModule  = TESTING_SOT223-ALT1;
+EndCmp
+
+BeginCmp
+TimeStamp = /595A9AD9;
+Reference = J2;
+ValeurCmp = AVR_SPI_PROG_3X2SMD;
+IdModule  = SPARKFUN-CONNECTORS_2X3_SMT_POSTS;
+EndCmp
+
+BeginCmp
+TimeStamp = /595A9BA1;
+Reference = J3;
+ValeurCmp = POWER_JACKSUPER_BOMB_DIGITY;
+IdModule  = TESTING_POWER_JACK_SMD_OVERPASTE_SUPER_BOMB_DIGITY;
+EndCmp
+
+BeginCmp
+TimeStamp = /595A9C69;
+Reference = JP1;
+ValeurCmp = SFE_LOGO_NAME.1_INCH;
+IdModule  = SPARKFUN-AESTHETICS_SFE_LOGO_NAME_.1;
+EndCmp
+
+BeginCmp
+TimeStamp = /595A9D31;
+Reference = JP2;
+ValeurCmp = M10SMD_COMBO;
+IdModule  = SPARKFUN-CONNECTORS_1X10_SMD_COMBINED;
+EndCmp
+
+BeginCmp
+TimeStamp = /595A9DF9;
+Reference = JP3;
+ValeurCmp = STAND-OFF;
+IdModule  = SPARKFUN_STAND-OFF;
+EndCmp
+
+BeginCmp
+TimeStamp = /595A9EC1;
+Reference = JP4;
+ValeurCmp = STAND-OFF;
+IdModule  = SPARKFUN_STAND-OFF;
+EndCmp
+
+BeginCmp
+TimeStamp = /595A9F89;
+Reference = JP5;
+ValeurCmp = STAND-OFF;
+IdModule  = SPARKFUN_STAND-OFF;
+EndCmp
+
+BeginCmp
+TimeStamp = /595AA051;
+Reference = JP6;
+ValeurCmp = STAND-OFF;
+IdModule  = SPARKFUN_STAND-OFF;
+EndCmp
+
+BeginCmp
+TimeStamp = /595AA119;
+Reference = JP7;
+ValeurCmp = SFE_LOGO_FLAME.1_INCH;
+IdModule  = SPARKFUN-AESTHETICS_SFE_LOGO_FLAME_.1;
+EndCmp
+
+BeginCmp
+TimeStamp = /595AA1E1;
+Reference = JP8;
+ValeurCmp = FIDUCIAL1X2;
+IdModule  = SPARKFUN_FIDUCIAL-1X2;
+EndCmp
+
+BeginCmp
+TimeStamp = /595AA2A9;
+Reference = JP9;
+ValeurCmp = FIDUCIAL1X2;
+IdModule  = SPARKFUN_FIDUCIAL-1X2;
+EndCmp
+
+BeginCmp
+TimeStamp = /595AA371;
+Reference = JP10;
+ValeurCmp = M08SMD-COMBO;
+IdModule  = SPARKFUN-CONNECTORS_1X08_SMD_COMBINED;
+EndCmp
+
+BeginCmp
+TimeStamp = /595AA439;
+Reference = JP11;
+ValeurCmp = M08SMD-COMBO;
+IdModule  = SPARKFUN-CONNECTORS_1X08_SMD_COMBINED;
+EndCmp
+
+BeginCmp
+TimeStamp = /595AA501;
+Reference = JP12;
+ValeurCmp = USB-MINIB-5PIN;
+IdModule  = SPARKFUN-CONNECTORS_USB-MINIB;
+EndCmp
+
+BeginCmp
+TimeStamp = /595AA5C9;
+Reference = JP13;
+ValeurCmp = M06SMD-STRAIGHT-COMBO;
+IdModule  = SPARKFUN-CONNECTORS_1X06_SMD_STRAIGHT_COMBO;
+EndCmp
+
+BeginCmp
+TimeStamp = /595AA691;
+Reference = LED1;
+ValeurCmp = LED1206;
+IdModule  = SPARKFUN-LED_LED-1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /595AA759;
+Reference = LED2;
+ValeurCmp = LED1206;
+IdModule  = SPARKFUN-LED_LED-1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /595AA821;
+Reference = LED3;
+ValeurCmp = LED1206;
+IdModule  = SPARKFUN-LED_LED-1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /595AA8E9;
+Reference = LED4;
+ValeurCmp = LED1206;
+IdModule  = SPARKFUN-LED_LED-1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /595AAA15;
+Reference = Q1;
+ValeurCmp = MOSFET-PCH-ZXMP6A13F;
+IdModule  = SPARKFUN-DISCRETESEMI_SOT23-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /595AAADD;
+Reference = Q2;
+ValeurCmp = MOSFET-NCH-2N7002PW;
+IdModule  = SPARKFUN-DISCRETESEMI_SOT323;
+EndCmp
+
+BeginCmp
+TimeStamp = /595AABA5;
+Reference = R1;
+ValeurCmp = 1KOHM-0603-1/10W-1%;
+IdModule  = SPARKFUN-RESISTORS_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /595AAC6D;
+Reference = R2;
+ValeurCmp = 4.7KOHM-0603-1/10W-1%;
+IdModule  = SPARKFUN-RESISTORS_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /595AAD35;
+Reference = R3;
+ValeurCmp = 10KOHM-0603-1/10W-1%;
+IdModule  = SPARKFUN-RESISTORS_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /595AADFD;
+Reference = R4;
+ValeurCmp = 10KOHM-0603-1/10W-1%;
+IdModule  = SPARKFUN-RESISTORS_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /595AAEC5;
+Reference = R5;
+ValeurCmp = 27OHM-0603-1/10W-1%;
+IdModule  = SPARKFUN-RESISTORS_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /595AAF8D;
+Reference = R6;
+ValeurCmp = 1KOHM-0603-1/10W-1%;
+IdModule  = SPARKFUN-RESISTORS_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /595AB055;
+Reference = R7;
+ValeurCmp = 1KOHM-0603-1/10W-1%;
+IdModule  = SPARKFUN-RESISTORS_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /595AB11D;
+Reference = R8;
+ValeurCmp = 1KOHM-0603-1/10W-1%;
+IdModule  = SPARKFUN-RESISTORS_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /595AB1E5;
+Reference = R9;
+ValeurCmp = 1KOHM-0603-1/10W-1%;
+IdModule  = SPARKFUN-RESISTORS_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /595AB2AD;
+Reference = R10;
+ValeurCmp = 27OHM-0603-1/10W-1%;
+IdModule  = SPARKFUN-RESISTORS_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /595AB375;
+Reference = R11;
+ValeurCmp = 10KOHM-0603-1/10W-1%;
+IdModule  = SPARKFUN-RESISTORS_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /595AB43D;
+Reference = R13;
+ValeurCmp = 10KOHM-0603-1/10W-1%;
+IdModule  = SPARKFUN-RESISTORS_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /595AB505;
+Reference = R14;
+ValeurCmp = 715OHM-0603-1/10W-1%;
+IdModule  = SPARKFUN-RESISTORS_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /595AB5CD;
+Reference = R15;
+ValeurCmp = 240OHM-0603-1/10W-1%;
+IdModule  = SPARKFUN-RESISTORS_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /595AB695;
+Reference = S1;
+ValeurCmp = SWITCH_SPST_4_PINSQUARE;
+IdModule  = SPARKFUN-ELECTROMECHANICAL_TACTILE-SWITCH-SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = /595AB951;
+Reference = TP1;
+ValeurCmp = TEST-POINT3X5;
+IdModule  = SPARKFUN-CONNECTORS_PAD.03X.05;
+EndCmp
+
+BeginCmp
+TimeStamp = /595ABA19;
+Reference = TP2;
+ValeurCmp = TEST-POINT3X5;
+IdModule  = SPARKFUN-CONNECTORS_PAD.03X.05;
+EndCmp
+
+BeginCmp
+TimeStamp = /595ABAE1;
+Reference = TP3;
+ValeurCmp = TEST-POINT3X5;
+IdModule  = SPARKFUN-CONNECTORS_PAD.03X.05;
+EndCmp
+
+BeginCmp
+TimeStamp = /595ABBA9;
+Reference = TP4;
+ValeurCmp = TEST-POINT3X5;
+IdModule  = SPARKFUN-CONNECTORS_PAD.03X.05;
+EndCmp
+
+BeginCmp
+TimeStamp = /595ABC71;
+Reference = TP5;
+ValeurCmp = TEST-POINT3X5;
+IdModule  = SPARKFUN-PASSIVES_PAD.03X.05;
+EndCmp
+
+BeginCmp
+TimeStamp = /595ABD39;
+Reference = TP6;
+ValeurCmp = TEST-POINT3X5;
+IdModule  = SPARKFUN-CONNECTORS_PAD.03X.05;
+EndCmp
+
+BeginCmp
+TimeStamp = /595AC24D;
+Reference = U$16;
+ValeurCmp = OSHW-LOGOS;
+IdModule  = SPARKFUN-AESTHETICS_OSHW-LOGO-S;
+EndCmp
+
+BeginCmp
+TimeStamp = /595AC315;
+Reference = U1;
+ValeurCmp = FT231XS;
+IdModule  = SPARKFUN-IC-COMMS_SSOP20_L;
+EndCmp
+
+BeginCmp
+TimeStamp = /595AC3DD;
+Reference = U2;
+ValeurCmp = MIC52053.3V;
+IdModule  = SPARKFUN-POWERIC_SOT23-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /595AC4A5;
+Reference = U4;
+ValeurCmp = ATMEGA328P_TQFP;
+IdModule  = SPARKFUN-IC-MICROCONTROLLER_TQFP32-08;
+EndCmp
+
+BeginCmp
+TimeStamp = /595AC56D;
+Reference = VP_0;
+ValeurCmp = VPDEV0;
+IdModule  = VPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /595AC635;
+Reference = VP_1;
+ValeurCmp = VPDEV0;
+IdModule  = VPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /595AC6FD;
+Reference = VP_2;
+ValeurCmp = VPDEV0;
+IdModule  = VPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /595AC7C5;
+Reference = VP_3;
+ValeurCmp = VPDEV0;
+IdModule  = VPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /595AC88D;
+Reference = VP_4;
+ValeurCmp = VPDEV0;
+IdModule  = VPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /595AC955;
+Reference = VP_5;
+ValeurCmp = VPDEV0;
+IdModule  = VPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /595ACA1D;
+Reference = VP_6;
+ValeurCmp = VPDEV0;
+IdModule  = VPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /595ACAE5;
+Reference = VP_7;
+ValeurCmp = VPDEV0;
+IdModule  = VPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /595ACBAD;
+Reference = VP_8;
+ValeurCmp = VPDEV0;
+IdModule  = VPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /595ACC75;
+Reference = VP_9;
+ValeurCmp = VPDEV0;
+IdModule  = VPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /595ACD3D;
+Reference = VP_10;
+ValeurCmp = VPDEV0;
+IdModule  = VPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /595ACE05;
+Reference = VP_11;
+ValeurCmp = VPDEV0;
+IdModule  = VPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /595ACECD;
+Reference = VP_12;
+ValeurCmp = VPDEV0;
+IdModule  = VPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /595ACF95;
+Reference = VP_13;
+ValeurCmp = VPDEV0;
+IdModule  = VPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /595AD05D;
+Reference = VP_14;
+ValeurCmp = VPDEV0;
+IdModule  = VPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /595AD125;
+Reference = VP_15;
+ValeurCmp = VPDEV0;
+IdModule  = VPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /595AD1ED;
+Reference = VP_16;
+ValeurCmp = VPDEV0;
+IdModule  = VPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /595AD2B5;
+Reference = VP_17;
+ValeurCmp = VPDEV0;
+IdModule  = VPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /595AD37D;
+Reference = VP_18;
+ValeurCmp = VPDEV0;
+IdModule  = VPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /595AD445;
+Reference = VP_19;
+ValeurCmp = VPDEV0;
+IdModule  = VPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /595AD50D;
+Reference = VP_20;
+ValeurCmp = VPDEV0;
+IdModule  = VPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /595AD5D5;
+Reference = VP_21;
+ValeurCmp = VPDEV0;
+IdModule  = VPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /595AD69D;
+Reference = VP_22;
+ValeurCmp = VPDEV0;
+IdModule  = VPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /595AD765;
+Reference = Y1;
+ValeurCmp = RESONATOR-16MHZSMD_3.2X1.3;
+IdModule  = SPARKFUN-CLOCKS_RESONATOR-SMD-3.2X1.3;
+EndCmp
+
+EndListe
