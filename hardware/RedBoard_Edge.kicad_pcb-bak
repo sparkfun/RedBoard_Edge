@@ -14,8 +14,8 @@
 
   (page A4)
   (layers
-    (0 F.Cu signal hide)
-    (31 B.Cu signal hide)
+    (0 F.Cu signal)
+    (31 B.Cu signal)
     (32 B.Adhes user hide)
     (33 F.Adhes user hide)
     (34 B.Paste user hide)
@@ -24,7 +24,7 @@
     (37 F.SilkS user)
     (38 B.Mask user hide)
     (39 F.Mask user)
-    (40 Dwgs.User user)
+    (40 Dwgs.User user hide)
     (41 Cmts.User user)
     (42 Eco1.User user hide)
     (43 Eco2.User user hide)
@@ -62,7 +62,7 @@
     (pad_drill 1.016)
     (pad_to_mask_clearance 0.0762)
     (aux_axis_origin 0 0)
-    (visible_elements 7FFFFFFF)
+    (visible_elements 7FFE7F1F)
     (pcbplotparams
       (layerselection 0x010f8_80000001)
       (usegerberextensions true)
