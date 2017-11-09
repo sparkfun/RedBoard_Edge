@@ -2245,4 +2245,14 @@ Text Notes 14450 10250 0    50   ~ 0
 Revised by: Andy England
 Text Notes 15950 10350 0    50   ~ 0
 v01
+Text Notes 6200 6050 0    50   ~ 0
+The Standoffs on the left side 
+Text Notes 6200 6100 0    50   ~ 0
+of the board can be connected
+Text Notes 6150 6150 0    50   ~ 0
+ to the grounds for the USB shield 
+Text Notes 6200 6200 0    50   ~ 0
+or the board ground by connecting 
+Text Notes 6200 6250 0    50   ~ 0
+their respective jumpers.
 $EndSCHEMATC
