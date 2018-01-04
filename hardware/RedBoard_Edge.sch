@@ -51,8 +51,8 @@ Title "RedBoard Edge"
 Date "23 JUN 2017"
 Rev ""
 Comp "SparkFun Electronics"
-Comment1 ""
-Comment2 ""
+Comment1 "https://creativecommons.org/licenses/by-sa/4.0/"
+Comment2 "Released under the Creative Commons Attribution Share-Alike 4.0 License"
 Comment3 ""
 Comment4 ""
 $EndDescr
@@ -2182,7 +2182,7 @@ F 4 "XXX-00000" H 11400 9900 60  0000 C CNN "Field4"
 $EndComp
 Text Notes 13600 10250 0    50   ~ 0
 Design by: Nick Poole
-Text Notes 14450 10250 0    50   ~ 0
+Text Notes 14700 10250 0    50   ~ 0
 Revised by: Andy England
 Text Notes 15950 10350 0    50   ~ 0
 v02

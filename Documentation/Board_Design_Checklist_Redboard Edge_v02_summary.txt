@@ -1,0 +1,9 @@
+1) Is it the standard I2C pin order used (GND/VCC/SDA/CLK)? [NO]
+comment: i2c accessable through a5/a6
+
+2) Is the board dimension outline correct thickness? (0.008 inch) [YES]
+comment: kicad, .00
+
+3) Is the LED color standard followed? (red for power, blue for STAT, green for TX, yellow for RX) [NO]
+comment: blue is pricy
+
