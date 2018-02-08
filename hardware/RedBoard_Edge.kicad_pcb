@@ -5,13 +5,10 @@
     (no_connects 0)
     (area 83.030287 71.214 220.880715 144.86)
     (thickness 1.6)
-<<<<<<< HEAD
     (drawings 390)
     (tracks 554)
-=======
     (drawings 387)
     (tracks 555)
->>>>>>> a2a9911433e27a61cbe578efc8b1c454ea6994ed
     (zones 0)
     (modules 72)
     (nets 59)
