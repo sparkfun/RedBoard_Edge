@@ -1,4 +1,4 @@
-SparkFun Qwiic VR IMU with the BNO080
+SparkFun RedBoard Edge
 ========================================
 
 ![SparkFun RedBoard Edge](https://cdn.sparkfun.com/r/500-500/assets/parts/1/2/6/0/6/14525-SparkFun_RedBoard_Edge-01.jpg)
