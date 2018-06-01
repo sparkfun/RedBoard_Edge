@@ -14,6 +14,15 @@ Repository Contents
 * **/Hardware** - Eagle design files (.brd, .sch)
 * **/Production** - Production panel files.
 
+Documentation
+--------------
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/redboard-edge-hookup-guide)** - Basic hookup guide for the RedBoard Edge.
+
+Product Versions
+----------------
+* [DEV-14525](https://www.sparkfun.com/products/14525)- SparkFun red version
+* **[SPX-14471 (RETIRED)](https://www.sparkfun.com/products/retired/14471)- SparkX version**
+
 License Information
 -------------------
 
@@ -23,8 +32,8 @@ Please review the LICENSE.md file for license information.
 
 If you have any questions or concerns on licensing, please contact techsupport@sparkfun.com.
 
-Please use, reuse, and modify these files as you see fit. Please maintain attribution to SparkFun Electronics and release anyThing Development Board derivative under the same license.
-
 Distributed as-is; no warranty is given.
 
 - Your friends at SparkFun.
+
+_<COLLABORATION CREDIT>_
