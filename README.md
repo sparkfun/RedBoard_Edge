@@ -21,7 +21,7 @@ Documentation
 Product Versions
 ----------------
 * [DEV-14525](https://www.sparkfun.com/products/14525)- SparkFun red version
-* **[SPX-14471 (RETIRED)](https://www.sparkfun.com/products/retired/14471)- SparkX version**
+* *[SPX-14471 (RETIRED)](https://www.sparkfun.com/products/retired/14471)- SparkX version*
 
 License Information
 -------------------
