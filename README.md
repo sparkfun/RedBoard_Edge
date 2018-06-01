@@ -5,8 +5,7 @@ SparkFun RedBoard Edge
 
 [*SparkFun RedBoard Edge (DEV-14525)*](https://www.sparkfun.com/products/14525)
 
-
-The Edge is a RedBoard that has been laid out with panel mounting in mind. This board is devoted solely to a pretty looking final project.
+The RedBoard Edge is a RedBoard that's been rebuilt around the idea that projects are eventually put into an enclosure to help clean up their look.
 
 Repository Contents
 -------------------
